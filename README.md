@@ -3,6 +3,7 @@ Settings for your electronic drumkit to use it as input device for Drumgizmo.
 
 ## Supported devices
 * Roland TD-4
+  * DRSKit - [examples](https://soundcloud.com/h-kunert/sets/drumgizmo-roland-td4)
 
 ## Usage
 Just download the midimap file for your e-drumkit and load it into Drumgizmo.
